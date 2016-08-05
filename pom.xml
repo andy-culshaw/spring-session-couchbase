@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.cambierr</groupId>
     <artifactId>spring-session-couchbase</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
     <packaging>jar</packaging>
     <name>Spring Session Couchbase</name>
     <description>Spring session implementation with Couchbase as backend</description>
